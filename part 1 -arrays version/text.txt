@@ -1,0 +1,12 @@
+cc
+cabin 2 is empty.
+cabin 3 is empty.
+ff
+ll
+cabin 6 is empty.
+cabin 7 is empty.
+cabin 8 is empty.
+cabin 9 is empty.
+cabin 10 is empty.
+cabin 11 is empty.
+cabin 12 is empty.

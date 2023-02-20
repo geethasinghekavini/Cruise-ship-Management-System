@@ -1,0 +1,12 @@
+passenger 01 in Cabin 1 is k l 0.0 / passenger 02 in Cabin 1 is m m  100.0 /
+cabin2is empty
+cabin3is empty
+cabin4is empty
+cabin5is empty
+cabin6is empty
+cabin7is empty
+cabin8is empty
+cabin9is empty
+cabin10is empty
+cabin11is empty
+cabin12is empty

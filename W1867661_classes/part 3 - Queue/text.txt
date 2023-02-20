@@ -1,0 +1,12 @@
+passenger 01 in Cabin 1 is f f 4.0 / passenger 02 in Cabin 1 is m m 5.0 / 
+passenger 01 in Cabin 2 is c c 4.0 / 
+passenger 01 in Cabin 3 is r r 3.0 / 
+passenger 01 in Cabin 4 is g g 6.0 / 
+passenger 01 in Cabin 5 is h h 5.0 / 
+passenger 01 in Cabin 6 is h h 6.0 / 
+passenger 01 in Cabin 7 is i i 6.0 / 
+passenger 01 in Cabin 8 is m m 5.0 / 
+passenger 01 in Cabin 9 is v v 3.0 / 
+passenger 01 in Cabin 10 is x x 3.0 / 
+cabin11is empty
+passenger 01 in Cabin 12 is z z 5.0 / 
